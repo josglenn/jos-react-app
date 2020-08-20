@@ -1,3 +1,3 @@
 # jos-react-app
 
-## Author by Jos
+## Author by Jos.
